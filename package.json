@@ -1,18 +1,17 @@
 {
-  "name": "vue-admin",
-  "version": "0.1.12",
-  "description": "Vue Admin Panel Framework",
-  "repository": "vue-bulma/vue-admin",
-  "homepage": "https://admin.vuebulma.com",
+  "name": "MikuDB-admin",
+  "version": "0.0.1",
+  "description": "MikuDB Admin",
+  "repository": "Styxx/mikudb-admin-ui",
+  "homepage": "http://www.mikudb.moe/",
   "license": "MIT",
   "author": {
-    "name": "Fangdun Cai",
-    "email": "cfddream@gmail.com",
-    "url": "fundon.me"
+    "name": "Vincent Chang",
+    "email": "styxxstones@gmail.com",
+    "url": "styxx.xyz"
   },
   "keywords": [
     "admin",
-    "bulma",
     "dashboard",
     "data",
     "visualization",

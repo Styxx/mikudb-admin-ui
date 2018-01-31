@@ -9,7 +9,6 @@
         </div>
         <div class="nav-center">
           <a class="nav-item hero-brand" href="/">
-            <tooltip :label="'v' + pkginfo.version" placement="right" type="success" size="small" :no-animate="true" :always="true" :rounded="true">
               <div class="is-hidden-mobile">
                 <span class="miku">Miku</span><strong class="db">DB</strong> Admin Panel
               </div>

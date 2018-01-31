@@ -12,6 +12,15 @@ import tables from './tables'
 const state = {
   items: [
     {
+      name: 'Custom',
+      path: '/custom',
+      meta: {
+        icon: 'fa-users',
+        link: 'custom/index.vue'
+      },
+      component: lazyLoading('custom', true)
+    },
+    {
       name: 'Dashboard',
       path: '/dashboard',
       meta: {
